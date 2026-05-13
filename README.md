@@ -46,5 +46,13 @@ Please list *your* actual configuration if it differs.
 
 # Notes
 
-* Feel free to report some inefficiencies in the code! (It's just initial version)
+This anonymous repository provides the core source code of SWR-DiMC and a
+minimal runnable demonstration for review.
 
+Detailed protocol, compute-resource, runtime, hyperparameter, and audit
+information is already reported in the appendix of the submitted paper.
+
+The full benchmark artifact package, including complete preprocessing scripts,
+split records, evaluator scripts, energy scripts, full configuration files,
+checkpoints, saved predictions, and per-sequence metric records, will
+be released with the camera-ready version.
